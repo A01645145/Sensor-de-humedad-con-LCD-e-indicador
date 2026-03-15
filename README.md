@@ -2,7 +2,8 @@
 1 - Código de Arduino para leer la humedad y temperatura con un DHT11, enseñar los valores en la LCD e indicar si hace falta agua con un LED
 
 
-Se requieren librerías para la LCD y el sensor de humedad DHT11
+Se requieren librerías para la LCD y el sensor de humedad DHT11, además de estos componentes, un foco LED, jumpers, proto, y un arduino.
+
 
 Sensor de humedad DHT: https://github.com/adafruit/DHT-sensor-library.git
 
